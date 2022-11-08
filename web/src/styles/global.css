@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body {
+    -webkit-font-smoothing: antialiased;
+    margin: auto;
+    
+}
+
+.h-screen {
+    height: 100vh;
+}
